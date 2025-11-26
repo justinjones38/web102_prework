@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
 
+
 body {
     font-family: 'Cabin';
     background-color: #758190;
@@ -32,6 +33,11 @@ body {
     margin: 1%;
     width: 100%;
     text-align: center;
+    transition: transform 1.4s;
+}
+
+.stats-card:hover {
+    transform: scale(1.03);
 }
 
 #num-contributions, #total-raised, #num-games {
@@ -57,15 +63,18 @@ body {
     width: 300px;
     text-align: center;
     border-radius: 7px;
+    transition: box-shadow 0.85s, transform 0.85s;
 }
 
 .game-card:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+    transform: scale(1.03);
 }
 
 #button-container {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 button {
@@ -74,4 +83,25 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+#button-container button:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#button-container button:active {
+    background-color: lightblue;
+}
+
+@media (max-width: 470px) {
+    .stats-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .stats-card {
+        width: 90%;
+    }
 }

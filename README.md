@@ -34,7 +34,7 @@ GIF created with Snipping Tool
 
 ## Notes
 
-THis project was a lot of fun. I think just adding extra features and making my website more was 
+This project was a lot of fun. I think just adding extra features and making my website more was 
 the most difficult challenges that I faced while building this app.
 
 ## License

@@ -30,17 +30,11 @@ Here's a walkthrough of implemented features:
 
 <img src='./assets/WEB102_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Snipping Tool
 
 ## Notes
 
-
-It was a lot of fun. I think just adding extra features and making my website more was 
+This project was a lot of fun. I think just adding extra features and making my website more was 
 the most difficult challenges that I faced while building this app.
 
 ## License

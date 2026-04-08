@@ -17,9 +17,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
-* [ ] I made the site more responsive by reducing the number of columns as screen size reduce.
-* [ ] I also added some hover effects to some elements.
+* [X] List anything else that you can get done to improve the app functionality!
+  - Added scrollIntoView so when button is clicked it scrolls to the top of the buttonContainer
+
+* [X] I made the site more responsive by reducing the number of columns as screen size reduce.
+* [X] I also added some hover effects to some elements.
+  - Added scaling to some elements, so they increase in size when hovered
 
 ## Video Walkthrough
 

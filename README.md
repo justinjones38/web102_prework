@@ -2,7 +2,7 @@
 
 Submitted by: **Justin**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **6** hours spent in total
 
@@ -17,15 +17,18 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
-* [ ] I made the site more responsive by reducing the number of columns as screen size reduce.
-* [ ] I also added some hover effects to some elements.
+* [X] List anything else that you can get done to improve the app functionality!
+  - Added scrollIntoView so when button is clicked it scrolls to the top of the buttonContainer
+
+* [X] I made the site more responsive by reducing the number of columns as screen size reduce.
+* [X] I also added some hover effects to some elements.
+  - Added scaling to some elements, so they increase in size when hovered
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/WEB102_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -37,6 +40,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+It was a lot of fun. I think just adding extra features and making my website more was 
+the most difficult challenges that I faced while building this app.
 
 ## License
 

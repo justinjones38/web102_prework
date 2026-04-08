@@ -39,7 +39,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 It was a lot of fun. I think just adding extra features and making my website more was 
 the most difficult challenges that I faced while building this app.
 
